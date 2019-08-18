@@ -3,8 +3,8 @@ title: CoffeeOps
 layout: default
 ---
 
-<p>  
-  Coffeehouses are hubs of information sharing: people gather, share thoughts, learn about happenings, and discuss challenges. Having a place and time to congregate allows people from diverse backgrounds to talk of experiences that can inspire, spark innovation and improve problem solving. 
+<p>
+  Coffeehouses are hubs of information sharing: people gather, share thoughts, learn about happenings, and discuss challenges. Having a place and time to congregate allows people from diverse backgrounds to talk of experiences that can inspire, spark innovation and improve problem solving.
 </p>
 
 
@@ -15,8 +15,8 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
 <p> The bigger your company, the more likely you need regular infusions of external input. Groups working solely within an environment can fail to recognize other ways of doing things, ignoring trends in the industry, duplicating efforts, and expending time and energy in areas that are not business differentiators.</p>
 
 
-<p>If there isn't a local Coffeeops already happening in your area, start one! 
-</p> 
+<p>If there isn't a local Coffeeops already happening in your area, start one!
+</p>
 
 
 <h2>Local Meetups</h2>
@@ -41,7 +41,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   <tr>
     <td class="tg-yw4l">San Francisco, California</td>
     <td class="tg-yw4l"><a href="https://www.google.com/maps/preview#!q=Brickhouse+Cafe+%26+Bar%2C+Brannan+Street%2C+San+Francisco%2C+CA&data=!4m15!2m14!1m13!1s0x80858078a8309d49%3A0x8c5b9cd82e5dc974!3m8!1m3!1d11399!2d-122.4024181!3d37.7786767!3m2!1i1341!2i694!4f13.1!4m2!3d37.779584!4d-122.395135">Brickhouse Cafe</a>, 4th & Brannan St.<br><a href="https://t.co/3G6CpHF82k">Calendar</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/jamfish728">@jamfish728</a><br><a href="https://github.com/nreisbeck">nreisb</a></td>
+    <td class="tg-yw4l"><a href="https://github.com/nreisbeck">nreisb</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Los Angeles, California</td>
@@ -74,11 +74,6 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l"><a href="https://twitter.com/drewkhoury">@drewkhoury</a>, <a href="https://twitter.com/bryceflux">@bryceflux</a></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Pittsburgh, Pennsylvania</td>
-    <td class="tg-yw4l">7:30-9:30am every second Thursday of the month at <a href="https://twitter.com/21street_strip">21st Street Coffee</a>!<Br> Subscribe to our <a href="http://cwe.st/coffeeopspghcal">calendar</a>. Hashtag <a href="https://twitter.com/search?q=%23CoffeeOpsPgh">#CoffeeOpsPgh</a>.</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/caseywest">@caseywest</a></td>
-  </tr>
-  <tr>
     <td class="tg-yw4l">Alpharetta, Georgia</td>
     <td class="tg-yw4l"><a href="http://www.meetup.com/Alpharetta-CoffeeOps/">Meetup</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/tmhall99">@tmhall99</a></td>
@@ -87,6 +82,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l">Boulder, Colorado</td>
     <td class="tg-yw4l"><a href="https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&amp;ctz=America/Denver">html</a> <a href="https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics">iCal</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/guildner">@guildner</a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Denver, Colorado</td>
+    <td class="tg-yw4l">Every Thursday between 8 and 10 am at <a href="http://www.monkandmongoose.com/locations/">Monk and Mongoose</a> at 5370 Greenwood Plaza Blvd Suite #109 Greenwood Village, CO 80111 near the Denver Tech Center. More details at <a href="https://www.meetup.com/Denver-CoffeeOps/">https://www.meetup.com/Denver-CoffeeOps/</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/curiousbiped">@curiousbiped</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Wellington, New Zealand</td>
@@ -104,11 +104,6 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l"><a href="https://twitter.com/cayohuesoval">@cayohuesoval</a><br><a href="https://twitter.com/jqr">@jqr</a></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Denver, Colorado</td>
-    <td class="tg-yw4l">Every Thursday from 8am-10am at <a href="http://www.pigtraincoffee.com/">Pigtrain</a> in Union Station. More details at <a href="https://www.meetup.com/Denver-CoffeeOps/">https://www.meetup.com/Denver-CoffeeOps/</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/curiousbiped">@curiousbiped</a></td>
-  </tr>
-  <tr>
     <td class="tg-yw4l">Chicago, IL</td>
     <td class="tg-yw4l">First Thursday of the month from 8am-10am at <a href="https://dollopcoffee.com">Dollop Coffee</a> on Monroe (55 W Monroe St). More details at <a href="https://www.meetup.com/CoffeeOps-Chicago/">https://www.meetup.com/CoffeeOps-Chicago/</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/parabuzzle">@parabuzzle</a></td>
@@ -120,18 +115,12 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
 </table>
 
-<h3>Past Meetups</h3>
-
-* Melbourne, Australia with <a href="https://twitter.com/geekle">@geekle</a>
-* Auckland, New Zealand with <a href="https://twitter.com/DefSol">@DefSol</a>
-
-
 <h2>FAQ</h2>
 
 * <b>Is there a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack.
 
 * <b>How do I organize a local coffeeops?</b> Reach out to community through twitter and any local email lists and see who is interested. Pick a time and date and a place with a good environment for talking. Depending on the size of your group, let the venue know ahead of time about the size of your group. Update this website or let [ @sigje ](https://twitter.com/sigje) know.
-    
+
 **Have an event to add to the site? Fork, Update, and Send a Pull Request:**
 
 **[https://github.com/CoffeeOps/coffeeops.github.io](https://github.com/CoffeeOps/coffeeops.github.io)**
